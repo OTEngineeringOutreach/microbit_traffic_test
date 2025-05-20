@@ -1,0 +1,9 @@
+{
+  "name": "my-extension",
+  "description": "A custom extension for micro:bit",
+  "dependencies": {},
+  "files": [
+    "main.ts",
+    "README.md"
+  ]
+}
