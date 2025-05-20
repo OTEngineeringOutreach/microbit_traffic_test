@@ -1,11 +1,5 @@
-/**
- * Functions are mapped to blocks using various macros
- * in comments starting with %. The most important macro
- * is "block", and it specifies that a block should be
- * generated for an **exported** function.
- */
 //% color=#003C71 weight=100 
-namespace hello {
+namespace traffic {
     let redPin: DigitalPin = DigitalPin.P0
     let yellowPin: DigitalPin = DigitalPin.P1
     let greenPin: DigitalPin = DigitalPin.P2
