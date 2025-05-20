@@ -1,5 +1,5 @@
 {
-    "name": "my-extension",
+    "name": "traffic-light-extension",
     "description": "A custom extension for micro:bit",
     "dependencies": {
         "microphone": "*"
