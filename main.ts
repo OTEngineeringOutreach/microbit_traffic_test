@@ -5,7 +5,7 @@
  * generated for an **exported** function.
  */
 //% color=#003C71 weight=100 
-namespace traffic {
+namespace hello {
     let redPin: DigitalPin = DigitalPin.P0
     let yellowPin: DigitalPin = DigitalPin.P1
     let greenPin: DigitalPin = DigitalPin.P2
