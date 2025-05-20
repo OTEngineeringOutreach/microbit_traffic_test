@@ -1,9 +1,19 @@
 {
-  "name": "my-extension",
-  "description": "A custom extension for micro:bit",
-  "dependencies": {},
-  "files": [
-    "main.ts",
-    "README.md"
-  ]
+    "name": "my-extension",
+    "description": "A custom extension for micro:bit",
+    "dependencies": {
+        "microphone": "*"
+    },
+    "files": [
+        "main.ts",
+        "README.md"
+    ],
+    "targetVersions": {
+        "target": "7.0.61",
+        "targetId": "microbit"
+    },
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "tsprj"
 }
